@@ -34,15 +34,15 @@ Simply pick a folder, and SortifyAgent moves files into `Images`, `Documents`, `
 
 ### 🏠 Landing Page
 ![Landing Page](screenshots/LandingPage.png)
-*Folder picker UI with category reference guide.*
+*`Folder picker UI` with category reference guide.*
 
 ### ⚙️ Processing
 ![Processing](screenshots/Processing.png)
-*Live terminal log showing real-time file sorting progress.*
+*`Live terminal` log showing real-time file sorting progress.*
 
 ### 📊 Output
 ![Output](screenshots/Output.png)
-*Final stats showing total files moved, skipped, and failed.*
+*Final stats `showing organized folders` for Images, Documents, Videos, and other file categories.*
 
 ## 🛠️ Tech Stack Used
 
