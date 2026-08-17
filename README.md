@@ -54,6 +54,7 @@
 - 🖥️ **Frontend:** React
 - ⚙️ **Bundler:** Vite
 - 🎨 **Styling:** Custom CSS-in-JS
+- 🧱 Markup: HTML
 - 📦 **API:** File System Access API (Chrome/Edge)
 - 🔀 **Version Control:** Git & GitHub
 - 🚀 **Deployment:** Vercel
