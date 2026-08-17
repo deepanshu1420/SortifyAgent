@@ -1,4 +1,4 @@
-# SortifyAgent 🗂️
+# Sortify Agent 🗂️
 
 ![React](https://img.shields.io/badge/React%20%7C%2019.x-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite%20%7C%206.x-646CFF?style=flat&logo=vite&logoColor=white)
