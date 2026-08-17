@@ -78,7 +78,7 @@ npm install
 npm run dev
 ```
 
-### 5️⃣ Open the local URL shown in the terminal — use `Chrome` or `Edge`
+### 5️⃣ Open the local URL shown in the terminal in your browser - use `Chrome` or `Edge`
 ```bash
 http://localhost:5173
 ```
