@@ -57,7 +57,7 @@ Simply pick a folder, and SortifyAgent moves files into `Images`, `Documents`, `
 
 ### 1️⃣ Clone the repository 
 ```bash
-git clone https://github.com/DeepanshuSharma/SortifyAgent.git
+git clone https://github.com/deepanshu1420/SortifyAgent.git
 ```
 
 ### 2️⃣ Navigate to the project directory 
