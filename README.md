@@ -13,12 +13,11 @@
 
 ## Description
 
-SortifyAgent is a browser-based file organizer that sorts files from any local folder into categorized subfolders automatically. It uses the `File System Access API` to read and write directly to your file system — no backend, no uploads, no data leaves your machine.
+SortifyAgent is a browser-based file organizer that sorts files from any local folder into categorized subfolders automatically. It uses the `File System Access API` to read and write directly to your file system - no backend, no uploads, no data leaves your machine.
 
 Simply pick a folder, and SortifyAgent moves files into `Images`, `Documents`, `Videos`, `Music`, `Archives`, `Code`, and `Others` - all in real time.
 
-> ⚠️ Designed for **PC/Desktop** only. Requires **Chrome** or **Edge** — Firefox does not support the <br> 
-`File System Access API`.
+> Important point: ⚠️ Designed for **PC/Desktop** only. Requires **Chrome** or **Edge**, Firefox does not support the `File System Access API`.
 
 ## ✨ Features / Highlights
 
