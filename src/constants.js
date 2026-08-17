@@ -4,7 +4,7 @@ export const CATEGORIES = {
   Videos:    ["mp4","mkv","avi","mov","wmv","flv","webm","m4v","3gp"],
   Music:     ["mp3","wav","aac","flac","ogg","m4a","wma","opus"],
   Archives:  ["zip","rar","tar","gz","7z","bz2","xz","iso"],
-  Code:      ["java","py","js","ts","jsx","tsx","html","css","cpp","c","json","xml","php","rb","go","rs","swift","kt","sh","yaml","env"],
+  Code:      ["java","py","js","ts","jsx","tsx","html","css","scss","sass","less","cpp","c","h","hpp","json","xml","yaml","yml","toml","php","rb","go","rs","swift","kt","kts","sh","bash","bat","ps1","sql","graphql","vue","svelte","md","mdx","env"],
 };
 
 export const CAT_META = {
