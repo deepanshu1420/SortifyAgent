@@ -26,9 +26,12 @@
 - ⚡ **Real-time Processing:** Live terminal-style log shows every file move as it happens.
 - 📊 **Progress Tracking:** Progress bar + stats counter for `moved`, `skipped`, and `failed` files.
 - 🔒 **100% Local:** No server, no cloud, no data collection. Everything runs in your browser.
-- 🧑‍💻 **Code-Aware Sorting** — Recognizes 20+ code file extensions (`.js`, `.py`, `.jsx`, `.cpp`, `.go` and more) and moves them into a dedicated `Code` subfolder automatically.
 - 🎨 **Clean Dark UI:** Minimal, responsive dark interface built with custom CSS.
 - 🌓 **Theme Toggle:** Switch seamlessly between `dark` and `light` themes for a personalized experience.
+
+> Project Spotlight:
+
+- 🧑‍💻 **Code-Aware Sorting:** Recognizes 20+ code file extensions (`.js`, `.py`, `.jsx`, `.cpp`, `.go` and more) and moves them into a dedicated `Code` subfolder automatically.
 
 ## 🖼️ Screenshots / Demo
 
