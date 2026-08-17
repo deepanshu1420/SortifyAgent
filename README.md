@@ -3,10 +3,10 @@
 ![React](https://img.shields.io/badge/React%20%7C%2019.x-61DAFB?style=flat&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite%20%7C%206.x-646CFF?style=flat&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20%7C%20ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS%20%7C%20CSS--in--JS-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS%20%7C%20CSS--in--JS-8B5CF6?style=flat&logo=css3&logoColor=white)
 ![File System Access API](https://img.shields.io/badge/File%20System%20Access%20API%20%7C%20Web%20API-4285F4?style=flat&logo=googlechrome&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20%7C%202.x-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel%20%7C%20Deployment-000000?style=flat&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel%20%7C%20Deployment-166534?style=flat&logo=vercel&logoColor=white)
 
 > Instantly organize your messy folders, no manual sorting, no installs.
 
