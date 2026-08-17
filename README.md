@@ -1,12 +1,12 @@
 # SortifyAgent 🗂️
 
-![React](https://img.shields.io/badge/React-%7C%2019.x-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-%7C%206.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%7C%20ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-%7C%20Custom%20CSS--in--JS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![File System Access API](https://img.shields.io/badge/File%20System%20Access%20API-%7C%20Web%20API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%7C%202.x-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%7C%20Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React%20%7C%2019.x-61DAFB?style=flat&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite%20%7C%206.x-646CFF?style=flat&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20%7C%20ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS%20%7C%20CSS--in--JS-1572B6?style=flat&logo=css3&logoColor=white)
+![File System Access API](https://img.shields.io/badge/File%20System%20Access%20API%20%7C%20Web%20API-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20%7C%202.x-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel%20%7C%20Deployment-000000?style=flat&logo=vercel&logoColor=white)
 
 > Instantly organize your messy folders, no manual sorting, no installs.
 
