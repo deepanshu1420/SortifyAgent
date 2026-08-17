@@ -27,6 +27,7 @@
 - 📊 **Progress Tracking:** Progress bar + stats counter for `moved`, `skipped`, and `failed` files.
 - 🔒 **100% Local:** No server, no cloud, no data collection. Everything runs in your browser.
 - 🎨 **Clean Dark UI:** Minimal, responsive dark interface built with custom CSS.
+- 🌓 **Theme Toggle:** Switch seamlessly between `dark` and `light` themes for a personalized experience.
 
 ## 🖼️ Screenshots / Demo
 
