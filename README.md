@@ -17,7 +17,7 @@ SortifyAgent is a browser-based file organizer that sorts files from any local f
 
 Simply pick a folder, and SortifyAgent moves files into `Images`, `Documents`, `Videos`, `Music`, `Archives`, `Code`, and `Others` - all in real time.
 
-> Important point: ⚠️ Designed for **PC/Desktop** only. Requires **Chrome** or **Edge**, Firefox does not support the `File System Access API`.
+> ⚠️ Important point: Designed for **PC/Desktop** only. Requires **Chrome** or **Edge**, Firefox does not support the `File System Access API`.
 
 ## ✨ Features / Highlights
 
