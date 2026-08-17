@@ -29,7 +29,7 @@
 - 🎨 **Clean Dark UI:** Minimal, responsive dark interface built with custom CSS.
 - 🌓 **Theme Toggle:** Switch seamlessly between `dark` and `light` themes for a personalized experience.
 
-> Project Spotlight:
+> Special Project Spotlight:
 
 - 🧑‍💻 **Code-Aware Sorting:** Recognizes 20+ code file extensions (`.js`, `.py`, `.jsx`, `.cpp`, `.go` and more) and moves them into a dedicated `Code` subfolder automatically.
 
