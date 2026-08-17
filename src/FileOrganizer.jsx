@@ -12,6 +12,7 @@ export default function FileOrganizer() {
   const [stats, setStats]           = useState({ moved: 0, skipped: 0, failed: 0 });
   const [progress, setProgress]     = useState(0);
   const [totalFiles, setTotalFiles] = useState(0);
+  const [isDark, setIsDark]         = useState(true);
   const logRef   = useRef(null);
   const isChrome = typeof window !== "undefined" && "showDirectoryPicker" in window;
 
@@ -113,7 +114,16 @@ export default function FileOrganizer() {
   return (
     <>
       <style>{CSS}</style>
-      <div className="fo-root">
+      <div className={`fo-root${isDark ? "" : " light"}`}>
+
+        {/* ── Theme Toggle ── */}
+        <button
+          className="fo-theme-btn"
+          onClick={() => setIsDark(prev => !prev)}
+          title={isDark ? "Switch to light mode" : "Switch to dark mode"}
+        >
+          {isDark ? "☀️" : "🌙"}
+        </button>
 
         <div className="fo-badge">⚡ File System Access API</div>
         <h1 className="fo-title">Sortify Agent</h1>
