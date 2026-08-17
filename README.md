@@ -38,7 +38,7 @@ Simply pick a folder, and SortifyAgent moves files into `Images`, `Documents`, `
 
 ### ⚙️ Processing
 ![Processing](screenshots/Processing.png)
-*`Live terminal` log showing real-time file sorting progress.*
+*Live terminal log showing `real-time file sorting progress`.*
 
 ### 📊 Output
 ![Output](screenshots/Output.png)
