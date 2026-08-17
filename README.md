@@ -79,7 +79,7 @@ cd SortifyAgent
 npm install
 ```
 
-### 4️⃣ Start the applicatio
+### 4️⃣ Start the application
 ```bash
 npm run dev
 ```
